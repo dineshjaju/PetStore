@@ -1,2 +1,2 @@
 # PetStore
-PetStore REST Application
+PetStore REST Application with Authentication and authorization
